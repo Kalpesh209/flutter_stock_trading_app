@@ -2,15 +2,14 @@
 
 A new Flutter project.
 
-## Getting Started
+On Demand Stock Trading App
 
-This project is a starting point for a Flutter application.
+/* Title: Stock Trading App, Purpose:Stock Trading App, Created Date: 28 Feb, 2021 Created By:Kalpesh Khandla */
 
-A few resources to get you started if this is your first Flutter project:
+This Application has a main.dart as enrty point and has two screens which are in screens folder.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+HomePage Screen
+Profile Screen
+Common folder consist of a List of all the colors used in the application
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Widget folder consist of list of all the widgets used in respective screens.
